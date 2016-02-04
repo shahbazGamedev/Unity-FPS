@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\Scripts\OnionTidy.cs">
+    <Files>
+      <File FileName="assets\Scripts\OnionTidy.cs" Line="22" Column="5" />
+      <File FileName="assets\Scripts\Enemy AI\OnionAI.cs" Line="101" Column="25" />
+      <File FileName="assets\MapGen\Scripts\FullRoom.cs" Line="1" Column="1" />
+      <File FileName="assets\MapGen\Scripts\RenderMap.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\Tidy.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\MobHealth.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\globals.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\Movement.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\Exit.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\RestartScene.cs" Line="11" Column="3" />
+      <File FileName="assets\Scripts\PlayerStats.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\Enemy AI\JelloAI.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\Stat.cs" Line="1" Column="1" />
+      <File FileName="assets\MapGen\Scripts\Floor\Door.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\Pickup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
